@@ -1,0 +1,34 @@
+{
+    "appData": {       
+        "contentTypeAppJSON": "application/json",
+        "client": "Victor Company (Kd.-Nr. 9558)"
+    },
+    "HTTP_Method":{
+        "GET": "GET",
+        "POST": "POST",
+        "PUT": "PUT",
+        "PATCH": "PATCH",
+        "DELETE": "DELETE"
+    },
+    "companyData": {
+        "companyName": "Victor Test",
+        "averageRevenue1000": "1000",
+        "address": "Fictitious 12, 12345 Hamburg",
+        "vatId": "DE123456789",
+        "eMail": "testEmail@test.test",
+        "telephone": "+49123456789"
+    },
+    "userData": {
+        "salutationMr": "Mr",
+        "salutationMrs": "Mrs",
+        "firstName": "Peter",
+        "lasttName": "Pan",
+        "userTest": "userTest",
+        "genderMale": "male",
+        "genderFemale": "female",
+        "statusActive": "active",
+        "statusInactive": "inactive",
+        "email":"peter.pan@company.com",
+        "password": "password123"
+    }
+}

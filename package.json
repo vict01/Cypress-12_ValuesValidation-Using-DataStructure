@@ -1,0 +1,26 @@
+{
+    "name": "fe_testing",
+    "version": "1.0.0",
+    "description": "test automation",
+    "main": "index.js",
+    "scripts": {
+        "test": "cypress run --browser chrome --headed",       
+        "cy:open": "cypress open",
+        "cy:headless": "cypress run"
+    },
+    "keywords": [
+        "cypress",
+        "mocha"
+    ],
+    "author": "Victor Caminero",
+    "license": "ISC",
+    "devDependencies": {
+        "@testing-library/cypress": "^9.0.0",
+        "cypress": "12.3.0",
+        "cypress-v10-preserve-cookie": "^1.2.1",
+        "debug": "^4.3.1",
+        "mkdirp": "^3.0.1",
+        "soft-assert": "^0.2.6",
+        "test-data-bot": "^0.8.0"
+    }
+}

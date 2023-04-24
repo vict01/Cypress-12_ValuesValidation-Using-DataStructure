@@ -1,0 +1,8 @@
+dist
+node_modules
+allure-results
+.DS_Store
+cypress/downloads
+cypress/videos
+cypress/screenshots
+**/package-lock.json
