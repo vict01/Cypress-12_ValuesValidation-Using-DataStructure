@@ -4,10 +4,10 @@
 
 <p align="left" style="font-size: 1.2rem; color: orange;"> Framework Structure </p>
 
-### The relevant framework files are included in the following folders.
+### The relevant framework files are included in the following folders within the cypress folder.
 
-1. _fixtures and support_: Contain libs and methods tha support the tests, along with page object model.
-2. _e2e_: Contains the test files that encompases the scenarios to be executed.
+1. _e2e_: Contains the test files that encompases the scenarios to be executed.
+2. _fixtures and support_: Contain libs and methods tha support the tests, along with page object model.
 
 <p align="left" style="font-size: 1.2rem; color: orange;"> Requirements to run the test </p>
 
